@@ -1,2 +1,2 @@
 ## First React App
-React learning curve
+Fun proj with React
