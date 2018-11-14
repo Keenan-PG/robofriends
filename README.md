@@ -1,2 +1,2 @@
 ## First React App
-Enjoying learning React. First project :) 
+React learning curve
