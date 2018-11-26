@@ -7,7 +7,6 @@ import App from './App';
 
 // custom imports 
 import 'tachyons';
-
 import './index.css';
 
 // ReactDOM.render(<App />, document.getElementById('root'));

@@ -10,7 +10,7 @@ const CardList = ({ robots }) => {
                     // have to make key so react can keep track of props 
                     return (
                         <Card 
-                            key={robots[i].id}
+                            key={i}
                             id={robots[i].id}
                             name={robots[i].name}
                             email={robots[i].email} 
